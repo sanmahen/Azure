@@ -1,0 +1,134 @@
+AZ-300 Lab Link
+https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies
+
+Event hub + stream analytics 
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection
+
+IOT HUB extra lab 
+https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/
+
+Event Hub (Extra lab)
+https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/
+
+---------------------
+Week-2 (Day2)
+1) ADF lab 
+Incrementally load data from an Azure SQL database to Azure Blob storage using the Azure portal
+
+https://docs.microsoft.com/en-us/azure/data-factory/tutorial-incremental-copy-portal
+
+2) Azure SQL (Dynamic data masking, TDE,TLS)
+
+https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/
+
+
+3) Queue
+https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/
+
+
+4) Storage Blobs
+https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/
+
+https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/
+
+--------------------------------------------------
+Week-3
+https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/
+https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/
+https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/
+
+
+session -2 
+1) https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod04_Implementing%20custom%20Role%20Based%20Access%20Control%20roles.md
+2) https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod03_Implementing%20Custom%20Azure%20VM%20Images.md
+3) https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod05_Implementing%20user-assigned%20managed%20identities%20for%20Azure%20resources.md
+
+
+
+Week-4
+---------------------------
+Session-1
+
+Logic app lab https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/
+Service bus topic lab https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/
+Relay https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/
+AKS https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app
+ACI https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
+ACI burst out architecture https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/scale-using-aks-with-aci
+
+
+1) Cognitive Service (20-30min)
+https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/
+2) APIM (30-40min)
+https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/
+3) Migration to Azure
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/contoso-migration-assessment
+
+--------------------------------------------------------------------------------------
+Week 5 Session -1 
+
+1) Lab: Implementing Azure to Azure migration
+https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T02_Lab_Mod01_Implementing%20Azure%20to%20Azure%20migration.md
+
+2) Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools
+https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/
+
+3) (Extra) Azure Batch 
+https://docs.microsoft.com/en-us/learn/modules/create-an-app-to-run-parallel-compute-jobs-in-azure-batch/
+
+4) Application Insights: Capture and view page load times in your Azure web app with Application Insights
+https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/
+
+5) Azure backup: Protect your virtual machines by using Azure Backup
+https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/
+
+-------------------------------------------------------------
+
+For Assesment
+
+1) Author Azure Resource Manager templates from scratch
+https://docs.microsoft.com/en-us/learn/modules/authoring-arm-templates/
+
+2) Build Azure Resource Manager templates
+https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/
+
+3) (Part 1-10) Tutorial: Create and deploy your first ARM template
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell
+
+4) Reference link for Assesment (VM creation quick start template)
+
+a) https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows
+-------------------------------------------------------------------
+Case Study 
+Reference Architectures 
+
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz
+
+-----------------------------------------------------------------
+SQL always on Extra Reading 
+https://www.mssqltips.com/sqlservertip/4717/what-is-sql-server-alwayson/
+
+=============================================================================
+Power BI 
+Power BI dashboard 
+https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/
+
+Get data in power BI 
+https://docs.microsoft.com/en-us/learn/modules/get-data/
+
+Visuals PowerBI
+https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/
+
+Publish dashboard 
+https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/
+
+---------------------------------------
+Application gateway 
+
+Load balance your web service traffic with Application Gateway
+https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/
+
+Encrypt network traffic end to end with Azure Application Gateway
+https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/
+
